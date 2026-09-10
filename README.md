@@ -1,10 +1,9 @@
 # Howdy 🤠
 ## About Me
 
-- 🔭 Full-Stack Web Development major at Arizona State University with a minor in Digital Audiences
-- 🌱 Exploring various elements of photography
-- ⚡ I am obsessed with anything bubble tea themed! 🧋
-- 🎓 I hope to become a freelance web developer/photographer for mom and pop shops after graduation
+- 🔱 Studying Graphic Design & Full-Stack Web Development + digital marketing minor @ Arizona State University
+- 🤝 Freelance web developer & photographer
+- 💛 Leadership, innovation, empathy
 
 ## Contact
 <a href="mailto:careytung@outlook.com">![careytung@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
